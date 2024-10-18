@@ -102,6 +102,8 @@ Seasonal plots help identify recurring patterns within specific time frames (e.g
 
 ## 4. Correlation Analysis
 
+![Correlation Heatmap](./Figures/relation.png)
+
 ### 4.1 Heatmap of Correlation Matrix
 
 Visualize relationships between variables:
@@ -328,6 +330,7 @@ plt.show()
 This analysis generates and plots white noise for each column in the dataset. White noise is a random signal with a constant power spectral density. By comparing these white noise plots with your actual data, you can visually assess how much your data deviates from pure randomness.
 
 ## 9. Granger Causality Test
+![Cranger Heatmap](./Figures/granger.png)
 
 Performing Granger Causality Test on the dataset:
 
